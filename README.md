@@ -1,7 +1,7 @@
 # RSSVolumetricClouds
 
 
-EVE Config for RSSVE which adds Volumetric Clouds. Thank you to Houndz for the initial help to porting this to RSS!
+EVE Config for RSSVE which adds Volumetric Clouds. Thank you Houndz for the initial help to porting this to RSS!
 
 Titan has not been completed yet, and isn't high on my to-do list. Please wait for them, or feel free to make your own!
 
